@@ -1,10 +1,7 @@
-Better PCMod
+PCMod 16
 ==========
-#### Current Version: 1.0.0
-
-Better version of PCMod 15 (Fixed Version) for Garry's Mod 13
-
-[Workshop (Not uploaded yet)](http://steamcommunity.com)  
+#### Current Version: 16.0.0
+  
 [Wiki](https://github.com/viral32111/betterpcmod/wiki)  
 [Issues](https://github.com/viral32111/betterpcmod/issues)  
 
